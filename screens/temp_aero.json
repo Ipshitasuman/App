@@ -1,0 +1,22 @@
+[
+    {
+   "Name" : "Amphibious",
+   "Speciality" : "Amphibious aircraft, otherwise also popularly known as amphibian is a multipurpose aircraft which can work, take off and land both water and ground. They are used as both seaplanes or flying boats, or also airplanes. In this aircraft, the engine is either placed in front, or even above the wing, that is most commonly found in floatplanes, On the other hand, the modern and other amphibious aircraft have engine and propeller placed above the wings. The size of amphibians differs as per the purpose; there are military amphibians, leisure purpose seaplanes, and civil amphibious aircraft."
+},
+{
+   "Name" : "Helicopter",
+   "Speciality" :"Helicopter aircraft, also known as a chopper, is commonly known to most of us and belongs to rotorcrafts. Horizontally spinning rotors help and aid the helicopter to lift and thrust. These aircraft have the advantage of taking vertically, horizontally, and fly both backward and forward or laterally. Unlike the other fixed-wing aircraft, these benefit from taking off and land at several places and flying even in congested areas. The engine depends on the size, purpose, and function of the chopper. Today, the helicopter is mostly used for military purposes, cargo, construction, rescue, tourism, aerial observation, and the government. The size of the chopper hence mostly depends on the usage"
+},
+{ 
+   "Name" : " Multi-Engine Piston",
+   "Speciality" : "As the name suggests, Multiple or Multi-engine piston aircraft has more than one single-engine, unlike the other categories and types of aircraft. These multi-engine pistons are known to have a second power source, which is greatly helpful during another engine’s failure. Due to this multiple power and engine facility, the aircraft-quality, capacity, speed, and climb rate is much higher than the usual air crafts. In most cases, this kind of aircraft is used by air service for their services and duties."
+},
+{
+   "Name" : " Gliders",
+   "Speciality" : "Gliders come again under the category of fixed-wing aircraft. The types of gliders aircraft are used through air reaction against lifting surfaces and mostly do not use any engine. Although small engines may be used as required (in cases like a motor glider), most glider aircraft are efficient for self-take without engines. A wheeled undercarriage helps in take-off or landing. In the past, gliders are used for military purposes and wars; however, nowadays, we even see them in tourist activities and entertainment or leisure. The most common types in this category include hand gliders and paragliders. Most gliders are small in size and can fit a maximum of two people."
+},{
+   "Name" : "Business Jets",
+   "Speciality" : "Business or private jet aircraft are known to be among the luxurious or unique aircraft to transport and fly a small group of people, even individuals. While they are costly due to their design, plush appearance, and very sophisticated looks, the business jets are used by different classes of people – from government officials to armed forces for special operations to companies and private ownership. While the speed, engine, and other manufacturing are similar to airplanes, the size differs from lightweight or small jets to mid-sized ones to long business jets. The heavy and long jets can accommodate 16 to 18 people, whereas the mid-size (depending on the capacity) can accommodate up to 12 or 10 people. The smaller types of business aircraft are only for four to six individuals."
+}
+
+]
